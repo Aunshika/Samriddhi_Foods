@@ -1,1 +1,1 @@
-# Samriddhi_Foods
+This is a pickle store website.
